@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A5A42AB4-7339-74B5-7560-00B029B8CEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elringus.SpriteGlow.Runtime", "Elringus.SpriteGlow.Runtime.csproj", "{211631B4-3F8E-A562-2932-8FEC8467439F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{84E6574A-4A92-ADA7-48B3-DF221D0FC28F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A42AB4-7339-74B5-7560-00B029B8CEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A42AB4-7339-74B5-7560-00B029B8CEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A42AB4-7339-74B5-7560-00B029B8CEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A42AB4-7339-74B5-7560-00B029B8CEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211631B4-3F8E-A562-2932-8FEC8467439F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211631B4-3F8E-A562-2932-8FEC8467439F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211631B4-3F8E-A562-2932-8FEC8467439F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211631B4-3F8E-A562-2932-8FEC8467439F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E6574A-4A92-ADA7-48B3-DF221D0FC28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E6574A-4A92-ADA7-48B3-DF221D0FC28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E6574A-4A92-ADA7-48B3-DF221D0FC28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E6574A-4A92-ADA7-48B3-DF221D0FC28F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
