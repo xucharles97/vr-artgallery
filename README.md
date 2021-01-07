@@ -12,4 +12,5 @@ This is a VR art gallery created using Unity and coded in C#, displaying images 
 3. Each image display in the gallery has a corresponding C# script to retrieve image data, handle image lighting, and animate .gif files if necessary. To display an image in the gallery, simply add the images into the corresponding folder under the `Resources` folder so that the script can retrieve the files under the filepath.
     1. For example, if you wanted to set the image on the East wall, you would simply clear all the other images under `Resources/EastWallImages` before adding your desired image into the folder. 
     2. For .gif files, it is necessary to label the frames with numbers in the order with which they will be played so that the script can animate the gif in the proper order.
+    3. **Note:** It may be necessary to add the corresponding folders, as many of the empty folders were lost while transferring from Gitlab
 4. When you are ready, press the `Play` button to view the updated images and animated gifs.
